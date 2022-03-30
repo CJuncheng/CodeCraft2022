@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -std=c++11 -rdynamic CMakeFiles/CodeCraft-2022.dir/CodeCraft-2022.cpp.o CMakeFiles/CodeCraft-2022.dir/distribution.cpp.o CMakeFiles/CodeCraft-2022.dir/read_csv.cpp.o -o /home/SDK_C++/bin/CodeCraft-2022 

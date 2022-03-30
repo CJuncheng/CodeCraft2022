@@ -1,0 +1,3 @@
+/home/SDK_C++/build/CMakeFiles/edit_cache.dir
+/home/SDK_C++/build/CMakeFiles/rebuild_cache.dir
+/home/SDK_C++/build/CMakeFiles/CodeCraft-2022.dir

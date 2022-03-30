@@ -1,0 +1,22 @@
+{
+    "python.pythonPath": "D:\\Software\\Anaconda3\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [ "--max-line-length=150"],
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.enabled": true,
+
+    "editor.semanticTokenColorCustomizations": {
+        "[One Dark Pro]": {
+          // Apply to this theme only
+          // "enabled": true,
+          "rules": {
+            //"magicFunction:python": "#ee0000",
+            //"function.declaration:python": "#990000",
+            //"*.decorator:python": "#0000dd",
+            //"*.typeHint:python": "#5500aa",
+            //"*.typeHintComment:python": "#aaaaaa",
+            //"parameter:python": "#aaaaaa"
+          }
+        }
+    }
+}
