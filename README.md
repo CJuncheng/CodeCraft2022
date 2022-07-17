@@ -88,3 +88,5 @@ public void square(int n) {
     }
 }
 ```
+
+$2^4$
