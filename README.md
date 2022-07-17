@@ -5,7 +5,7 @@
 - ```CodeCraft2022-PressureGenerator-master```：开源，生成压测数据集
 - 其余为部分官方数据文档
 
-\[T(n)=O(f(n))\]
+$T(n)=O(f(n))$
 其中：
 - $T(n)$: 程序执行总时间
 - $n$: 数据规模大小
