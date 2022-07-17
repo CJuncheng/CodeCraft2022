@@ -23,6 +23,7 @@ public void sum(int n) {
 }
 ```
 程序执行常数次，与问题规模$n$无关，复杂度记为$O(1)$
+
 2. 对数阶$O(logn)$
 ```
 public void logarithm(int n) {
