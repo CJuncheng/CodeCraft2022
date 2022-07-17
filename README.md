@@ -92,5 +92,5 @@ public void square(int n) {
 $2^4$
 
 \[jj \]
-$$\frac{((1+2+3+\cdots+n)+n)}{(n+1)}=\frac{n(n+3)}{2(n+1)$$
+$$\frac{((1+2+3+\+n)+n)}{(n+1)}=\frac{n(n+3)}{2(n+1)$$
 代码：$$h_w(x)=\frac{1}{1+e^{-w^Tx}}$$
